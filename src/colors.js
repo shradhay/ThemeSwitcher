@@ -13,4 +13,4 @@ const AppTheme={
 
     
 }
-export default colors;
+export default AppTheme;
